@@ -1,12 +1,12 @@
 ﻿using Newtonsoft.Json;
-using PM02RestApi.Models;
+using ejercicio21_2p.Models;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PM02RestApi.Controllers
+namespace ejercicio21_2p.Controllers
 {
     public class CountriesControllers
     {

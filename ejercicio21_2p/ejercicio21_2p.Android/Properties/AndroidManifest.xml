@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.pm02restapi">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.ejercicio21_2p">
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="30" />
-    <application android:label="PM02RestApi.Android" android:theme="@style/MainTheme">
+    <application android:label="ejercicio21_2p.Android" android:theme="@style/MainTheme">
     <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAfrSRqUpBkRihb-IQEnGcaFt9ZBw9ZczI"/>
 
 	</application>

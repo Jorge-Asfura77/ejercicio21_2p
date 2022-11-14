@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PM02RestApi.Models
+namespace ejercicio21_2p.Models
 {
     public class Countries
     {

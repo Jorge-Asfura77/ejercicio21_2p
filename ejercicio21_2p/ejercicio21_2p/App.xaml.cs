@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace PM02RestApi
+namespace ejercicio21_2p
 {
     public partial class App : Application
     {

@@ -6,7 +6,7 @@ using Android.Runtime;
 using Android.OS;
 using Android;
 
-namespace PM02RestApi.Droid
+namespace ejercicio21_2p.Droid
 {
     [Activity(Label = "ejercicio21_2p", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize )]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity

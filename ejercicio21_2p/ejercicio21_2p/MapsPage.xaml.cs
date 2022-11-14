@@ -9,10 +9,10 @@ using Xamarin.Forms.Xaml;
 using Plugin.Geolocator;
 using Xamarin.Forms.Maps;
 using Xamarin.Essentials;
-using static PM02RestApi.Models.Countries;
+using static ejercicio21_2p.Models.Countries;
 using System.Diagnostics;
 
-namespace PM02RestApi
+namespace ejercicio21_2p
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MapsPage : ContentPage

@@ -1,5 +1,5 @@
-﻿using PM02RestApi.Controllers;
-using PM02RestApi.Models;
+﻿using ejercicio21_2p.Controllers;
+using ejercicio21_2p.Models;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -9,7 +9,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PM02RestApi.View
+namespace ejercicio21_2p.View
 {
     public class CountryViewModel:INotifyPropertyChanged
     {

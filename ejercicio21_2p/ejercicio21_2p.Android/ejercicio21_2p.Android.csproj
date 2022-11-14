@@ -109,7 +109,7 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PM02RestApi\ejercicio21_2p.csproj">
+    <ProjectReference Include="..\ejercicio21_2p\ejercicio21_2p.csproj">
       <Project>{CC464306-F9A7-4FE0-8ECC-333807A0A484}</Project>
       <Name>ejercicio21_2p</Name>
     </ProjectReference>

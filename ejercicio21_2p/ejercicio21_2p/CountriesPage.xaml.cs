@@ -1,7 +1,7 @@
 ﻿using Plugin.Geolocator.Abstractions;
-using PM02RestApi.Controllers;
-using PM02RestApi.Models;
-using PM02RestApi.View;
+using ejercicio21_2p.Controllers;
+using ejercicio21_2p.Models;
+using ejercicio21_2p.View;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using static PM02RestApi.View.CountryViewModel;
+using static ejercicio21_2p.View.CountryViewModel;
 
-namespace PM02RestApi
+namespace ejercicio21_2p
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class CountriesPage : ContentPage
