@@ -93,8 +93,6 @@ namespace ejercicio21_2p
             String capitalpais = valores.capital[0];
             Double Latvar = valores.latlng[0];
             Double Longvar = valores.latlng[1];
-            //await DisplayAlert("Error", "Pais: "+nombrepais, "OK");
-            //await DisplayAlert("Error", "Lat: "+Latvar.ToString()+" Log: "+Longvar.ToString(), "OK");
             LatLongcs.dataubic classdata = new LatLongcs.dataubic
             {
                 lat = Latvar,
@@ -104,7 +102,6 @@ namespace ejercicio21_2p
             };
             var page = new MapsPage();
             page.BindingContext = classdata;
-            //await Navigation.PushAsync(page);
             await Navigation.PushAsync(new NavigationPage(page));
 
 
